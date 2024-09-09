@@ -1,5 +1,9 @@
 # Analyzing Food Dishes Using AI: A Comparison of Bing AI and OpenAI Image Recognition
 
+## Acknowledgment 
+
+This blog post was done by Ritwika Das (GWID: G30941802) and Aditi Vyas (GWID: G40802010) under the guidnace of Professor Robert Pless.
+
 ## Overview
 
 This project explores the capabilities of AI-powered image recognition tools—specifically Bing AI and OpenAI—in identifying food items from an image featuring a variety of dishes. The blog post compares the performance of both platforms based on their confidence levels and accuracy in identifying different foods such as Pho, dumplings, and sushi rolls.
